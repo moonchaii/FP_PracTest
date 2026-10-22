@@ -1,3 +1,5 @@
+module Q2Ans where
+
 -- Model solution (see the slides)
 -- Last update: 16 Oct, 12:20.
 --
